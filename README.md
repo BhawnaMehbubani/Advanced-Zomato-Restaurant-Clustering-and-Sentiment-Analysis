@@ -241,3 +241,9 @@ Final Reporting & Dashboard
 4. Add restaurant images and user demographic data for enhanced clustering.
 
 
+
+## Contributions  
+
+Contributions, suggestions, and feature requests are welcome! Feel free to open an issue or submit a pull request. 
+
+
